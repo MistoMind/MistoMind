@@ -1,34 +1,7 @@
-# Backend & Systems Engineer
-
-I build backend systems that survive production — data pipelines, analytics platforms, and edge-device infrastructure that operate under real-world constraints.
+# Yoo (^_^)/ ! I'm a Backend Engineer
 
 Most of my work sits at the intersection of **backend engineering, data systems, and infrastructure**, with a strong focus on reliability, scalability, and operational efficiency.
 
----
-
-## What I Work On
-
-- **Backend & APIs**
-  - Python (FastAPI, async systems), GraphQL, REST
-  - Authentication systems, multi-tenant architectures, RBAC
-  - Production-grade API design and system refactoring
-
-- **Data & Analytics Systems**
-  - ClickHouse, PostgreSQL, Redis
-  - High-throughput ingestion, query optimization, analytics pipelines
-  - Data correctness, backfilling, recovery, and validation workflows
-
-- **Infrastructure & DevOps**
-  - Docker, CI/CD, AWS
-  - Automated deployments, image lifecycle management
-  - Monitoring, logging, and operational tooling
-
-- **Edge & Distributed Systems**
-  - IoT / Edge device monitoring (NVIDIA Jetson, Linux)
-  - MQTT-based communication, telemetry, log recovery
-  - Systems designed for failure, offline recovery, and scale
-
----
 
 ## Things I Care About
 
@@ -36,22 +9,6 @@ Most of my work sits at the intersection of **backend engineering, data systems,
 - Reducing operational overhead for non-engineering teams
 - Making data **correct, debuggable, and recoverable**
 - Writing code that someone else can operate at 3 AM
-
----
-
-## Current Focus
-
-- Scaling analytics platforms handling live production traffic
-- Edge-device observability and data recovery pipelines
-- Backend system design for high-signal, low-noise data flows
-
----
-
-## Tech I Use Frequently
-
-`Python` `FastAPI` `ClickHouse` `PostgreSQL` `Redis`  
-`Docker` `AWS` `Kafka` `GraphQL` `MQTT`  
-`Linux` `Async Systems` `Data Pipelines`
 
 ---
 
