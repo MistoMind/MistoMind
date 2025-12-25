@@ -1,6 +1,67 @@
-# Hi 👋, I'm Khush Seervi
+# Backend & Systems Engineer
 
-### A passionate Python developer
+I build backend systems that survive production — data pipelines, analytics platforms, and edge-device infrastructure that operate under real-world constraints.
+
+Most of my work sits at the intersection of **backend engineering, data systems, and infrastructure**, with a strong focus on reliability, scalability, and operational efficiency.
+
+---
+
+## What I Work On
+
+- **Backend & APIs**
+  - Python (FastAPI, async systems), GraphQL, REST
+  - Authentication systems, multi-tenant architectures, RBAC
+  - Production-grade API design and system refactoring
+
+- **Data & Analytics Systems**
+  - ClickHouse, PostgreSQL, Redis
+  - High-throughput ingestion, query optimization, analytics pipelines
+  - Data correctness, backfilling, recovery, and validation workflows
+
+- **Infrastructure & DevOps**
+  - Docker, CI/CD, AWS
+  - Automated deployments, image lifecycle management
+  - Monitoring, logging, and operational tooling
+
+- **Edge & Distributed Systems**
+  - IoT / Edge device monitoring (NVIDIA Jetson, Linux)
+  - MQTT-based communication, telemetry, log recovery
+  - Systems designed for failure, offline recovery, and scale
+
+---
+
+## Things I Care About
+
+- Designing systems that **fail safely**
+- Reducing operational overhead for non-engineering teams
+- Making data **correct, debuggable, and recoverable**
+- Writing code that someone else can operate at 3 AM
+
+---
+
+## Current Focus
+
+- Scaling analytics platforms handling live production traffic
+- Edge-device observability and data recovery pipelines
+- Backend system design for high-signal, low-noise data flows
+
+---
+
+## Tech I Use Frequently
+
+`Python` `FastAPI` `ClickHouse` `PostgreSQL` `Redis`  
+`Docker` `AWS` `Kafka` `GraphQL` `MQTT`  
+`Linux` `Async Systems` `Data Pipelines`
+
+---
+
+## Outside of Code
+
+I enjoy breaking complex systems down until they’re boring, automating anything repetitive, and building tools that make teams faster without realizing it.
+
+---
+
+> If you care about reliability, data correctness, and systems that actually run in production — we’ll probably get along.
 
 - 📫 How to reach me **khushseervi@gmail.com**
 
