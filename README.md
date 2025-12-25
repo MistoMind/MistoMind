@@ -1,9 +1,9 @@
-# Yoo (^_^)/ ! I'm a Backend Engineer
+# Yoo (^_^)/ ! I'm a Backend Engineer 💻
 
 Most of my work sits at the intersection of **backend engineering, data systems, and infrastructure**, with a strong focus on reliability, scalability, and operational efficiency.
 
 
-## Things I Care About
+## 🎯 Things I Care About
 
 - Designing systems that **fail safely**
 - Reducing operational overhead for non-engineering teams
@@ -12,7 +12,7 @@ Most of my work sits at the intersection of **backend engineering, data systems,
 
 ---
 
-## Outside of Code
+## 🍵 Outside of Code
 
 I enjoy breaking complex systems down until they’re boring, automating anything repetitive, and building tools that make teams faster without realizing it.
 
